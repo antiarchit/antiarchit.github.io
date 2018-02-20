@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #111c2a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fffcfc;
+}
+
+h1 {
+  font-size: 6em;
+  display: block;
+  font-family: "SF Mono", "Menlo", monospace;
+  margin: 0 auto;
+}
