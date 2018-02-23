@@ -1,19 +1,38 @@
 html,
 body {
-  height: 100%;
 }
 
 body {
   background: #111c2a;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  font-family: "SF Mono", "Menlo", monospace;
+  color: #fffcfc;
+  margin: 20px auto;
+  padding: 2em;
+  max-width: 800px;
+}
+
+a:hover {
+  background: #233d5f;
+}
+
+a {
   color: #fffcfc;
 }
 
-h1 {
-  font-size: 6em;
-  display: block;
+a:visited {
+  color: #c2b7b7;
+}
+
+code {
   font-family: "SF Mono", "Menlo", monospace;
+}
+
+img {
   margin: 0 auto;
+  height: 120px;
+  width: 120px;
+  border-radius: 16px;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0px 2px 4px #030507;
 }
