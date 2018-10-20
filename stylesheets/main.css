@@ -6,32 +6,33 @@ h1 {
   font-variant: small-caps;
 }
 
-h1, h2 {
-  font-family: 'Alegreya', 'Georgia';
-  color: #E2C044;
+h1,
+h2 {
+  font-family: "Alegreya", "Georgia";
+  color: #e2c044;
 }
 
 body {
-  background: #1E2019;
-  font-family: 'Alegreya Sans', -apple-system, sans-serif;
+  background: #1e2019;
+  font-family: "Alegreya Sans", -apple-system, sans-serif;
   font-size: 1.4em;
   line-height: 1.44;
-  color: #D3D0CB;
+  color: #d3d0cb;
   margin: 20px auto;
   padding: 2em;
   max-width: 800px;
 }
 
 a:hover {
-  background: #587B7F;
+  background: #587b7f;
 }
 
 a {
-  color: #D3D0CB;
+  color: #d3d0cb;
 }
 
 a:visited {
-  color: #D3D0CB;
+  color: #d3d0cb;
 }
 
 code {
@@ -46,5 +47,5 @@ img {
   width: 120px;
   border-radius: 16px;
   display: inline-flex;
-  box-shadow: 0px 2px 4px #393E41;
+  box-shadow: 0px 2px 4px #393e41;
 }
