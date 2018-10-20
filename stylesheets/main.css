@@ -4,12 +4,22 @@ body {
 
 h1 {
   font-variant: small-caps;
+  margin-top: 0;
+}
+
+h2 {
+  margin-bottom: 0;
 }
 
 h1,
 h2 {
   font-family: "Alegreya", "Georgia";
   color: #e2c044;
+}
+
+h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0;
 }
 
 body {
@@ -21,6 +31,10 @@ body {
   margin: 20px auto;
   padding: 2em;
   max-width: 800px;
+}
+
+p, ul {
+  margin-top: 0.5em;
 }
 
 a:hover {
