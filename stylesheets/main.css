@@ -67,8 +67,7 @@ img {
 
 @media (max-width: 800px) {
   body {
-    padding: 1em;
-    margin: 12px auto;
-    font-size: 150%;
+    padding: 0.5em;
+    margin: 8px auto;
   }
 }
