@@ -34,8 +34,14 @@ body {
   max-width: 800px;
 }
 
+.profileContainer {
+  align-items: flex-start;
+  display: flex;
+}
+
 p,
-ul {
+ul,
+img {
   margin-top: 0.5em;
 }
 
@@ -61,8 +67,7 @@ code {
 }
 
 img {
-  margin: 0 24px 0 0;
-  float: left;
+  margin-right: 12px;
   height: 120px;
   width: 120px;
   border-radius: 16px;
@@ -74,6 +79,6 @@ img {
   body {
     padding: 0.5em;
     margin: 8px auto;
-    font-size: 1.20em;
+    font-size: 1.2em;
   }
 }
