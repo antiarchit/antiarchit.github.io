@@ -49,10 +49,7 @@ a:hover {
   background: #003459;
 }
 
-a {
-  color: #30c5ff;
-}
-
+a,
 a:visited {
   color: #30c5ff;
 }
