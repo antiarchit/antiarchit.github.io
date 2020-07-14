@@ -11,7 +11,6 @@ h2 {
 h1,
 h2 {
   font-family: "Alegreya Sans", -apple-system, sans-serif;
-  color: #f9c80e;
   line-height: 1.2;
 }
 
@@ -21,11 +20,11 @@ h3 {
 }
 
 body {
-  background: #020208;
+  background: #141414;
   font-family: "Alegreya", "Georgia";
   font-size: 1.6em;
   line-height: 1.6;
-  color: #f3e9dc;
+  color: #fafafa;
   margin: 20px auto;
   padding: 2em;
   max-width: 800px;
@@ -47,12 +46,13 @@ ul li {
 }
 
 a:hover {
-  background: #587b7f;
+  background: #15beec80;
 }
 
 a,
 a:visited {
-  color: #13c4a3;
+  text-decoration: none;
+  color: #15beec;
 }
 
 code {
