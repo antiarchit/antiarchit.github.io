@@ -1,61 +1,16 @@
 h1 {
-  font-variant: all-small-caps;
   margin-top: 0;
-}
-
-h2 {
-  margin-top: 1.8em;
-  margin-bottom: 0;
-}
-
-h1,
-h2 {
-  line-height: 1.2;
-}
-
-h3 {
-  margin-top: 0.5em;
-  margin-bottom: 0;
 }
 
 body {
   background: #141414;
-  font-family: "IBM Plex Sans", -apple-system, sans-serif;
+  font-family: -apple-system, sans-serif;
   font-size: 1.44em;
   line-height: 1.6;
   color: #fafafa;
   margin: 20px auto;
   padding: 2em;
   max-width: 800px;
-}
-
-.profileContainer {
-  align-items: flex-start;
-  display: flex;
-}
-
-p,
-ul {
-  margin-top: 0.5em;
-}
-
-ul li {
-  margin-top: 0.25em;
-}
-
-a:hover {
-  background: #15beec80;
-}
-
-a,
-a:visited {
-  text-decoration: none;
-  color: #15beec;
-}
-
-code {
-  font-family: "IBM Plex Mono", "SF Mono", "Menlo", monospace;
-  font-size: 0.84em;
 }
 
 @media (max-width: 800px) {
